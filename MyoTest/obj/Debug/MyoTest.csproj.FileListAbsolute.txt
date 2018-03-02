@@ -1,0 +1,90 @@
+D:\Programming repository\MyoTest\MyoTest\bin\Debug\MyoTest.exe.config
+D:\Programming repository\MyoTest\MyoTest\bin\Debug\MyoTest.exe
+D:\Programming repository\MyoTest\MyoTest\bin\Debug\MyoTest.pdb
+D:\Programming repository\MyoTest\MyoTest\bin\Debug\Microsoft.Contracts.dll
+D:\Programming repository\MyoTest\MyoTest\bin\Debug\MyoSharp.pdb
+D:\Programming repository\MyoTest\MyoTest\obj\Debug\MyoTest.csprojResolveAssemblyReference.cache
+D:\Programming repository\MyoTest\MyoTest\obj\Debug\MainWindow.g.cs
+D:\Programming repository\MyoTest\MyoTest\obj\Debug\App.g.cs
+D:\Programming repository\MyoTest\MyoTest\obj\Debug\MyoTest_MarkupCompile.cache
+D:\Programming repository\MyoTest\MyoTest\obj\Debug\MyoTest_MarkupCompile.lref
+D:\Programming repository\MyoTest\MyoTest\obj\Debug\MainWindow.baml
+D:\Programming repository\MyoTest\MyoTest\obj\Debug\MyoTest.g.resources
+D:\Programming repository\MyoTest\MyoTest\obj\Debug\MyoTest.Properties.Resources.resources
+D:\Programming repository\MyoTest\MyoTest\obj\Debug\MyoTest.csproj.GenerateResource.Cache
+D:\Programming repository\MyoTest\MyoTest\obj\Debug\MyoTest.exe
+D:\Programming repository\MyoTest\MyoTest\obj\Debug\MyoTest.pdb
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\bin\Debug\MyoTest.exe.config
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\bin\Debug\MyoTest.exe
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\bin\Debug\MyoTest.pdb
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\bin\Debug\Microsoft.Contracts.dll
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\bin\Debug\MyoSharp.pdb
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.csprojResolveAssemblyReference.cache
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MainWindow.g.cs
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\App.g.cs
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest_MarkupCompile.cache
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest_MarkupCompile.lref
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MainWindow.baml
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.g.resources
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.Properties.Resources.resources
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.csproj.GenerateResource.Cache
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.csproj.CoreCompileInputs.cache
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.exe
+D:\PhdRepository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.pdb
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\bin\Debug\MyoTest.exe.config
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\bin\Debug\MyoTest.exe
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\bin\Debug\MyoTest.pdb
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\bin\Debug\Microsoft.Contracts.dll
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\bin\Debug\MyoSharp.pdb
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.csprojResolveAssemblyReference.cache
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MainWindow.g.cs
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\App.g.cs
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest_MarkupCompile.cache
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest_MarkupCompile.lref
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MainWindow.baml
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.g.resources
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.Properties.Resources.resources
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.csproj.GenerateResource.Cache
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.csproj.CoreCompileInputs.cache
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.exe
+C:\Users\bib_l\Documents\Programming Repository\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.pdb
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\bin\Debug\MyoTest.exe.config
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\bin\Debug\MyoTest.exe
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\bin\Debug\MyoTest.pdb
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\bin\Debug\Microsoft.Contracts.dll
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\MyoTest.csprojResolveAssemblyReference.cache
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\MainWindow.g.cs
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\App.g.cs
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\MyoTest_MarkupCompile.cache
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\MyoTest_MarkupCompile.lref
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\MainWindow.baml
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\MyoTest.g.resources
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\MyoTest.Properties.Resources.resources
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\MyoTest.csproj.GenerateResource.Cache
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\MyoTest.csproj.CoreCompileInputs.cache
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\MyoTest.exe
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\obj\Debug\MyoTest.pdb
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\bin\Debug\ConnectorHub.dll
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\bin\Debug\ConnectorHub.pdb
+C:\Users\schneider2\source\repos\MyoStandalone-master\MyoStandalone-master\MyoTest\MyoTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\bin\Debug\MyoTest.exe.config
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\bin\Debug\MyoTest.exe
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\bin\Debug\MyoTest.pdb
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\bin\Debug\ConnectorHub.dll
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\bin\Debug\Microsoft.Contracts.dll
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\bin\Debug\ConnectorHub.pdb
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.csprojResolveAssemblyReference.cache
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\MainWindow.g.cs
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\App.g.cs
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest_MarkupCompile.cache
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest_MarkupCompile.lref
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\MainWindow.baml
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.g.resources
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.Properties.Resources.resources
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.csproj.GenerateResource.Cache
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.csproj.CoreCompileInputs.cache
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.exe
+C:\Users\schneider2\source\repos\MyoStandalone\MyoStandalone\MyoTest\MyoTest\obj\Debug\MyoTest.pdb
